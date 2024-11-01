@@ -1,0 +1,15 @@
+.ad-square-buttons {
+    margin: 10px 0 0 0;
+}
+
+.ad-square-buttons a {
+    display: block;
+    float: left;
+    line-height: 100%;
+    margin: 2px;
+    _margin: 0; /* IE6 */
+}
+
+.ad-square-buttons a img {
+    display: inline;
+}
